@@ -21,3 +21,4 @@ return
 Send,{Home}
 Send,+{End}
 Send,{Del}
+return
